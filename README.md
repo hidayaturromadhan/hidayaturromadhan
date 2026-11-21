@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hidayatur%20Romadhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hidayatur%20Romadhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Freelance%20Full-Stack%20Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/hidayaturromadhan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Halo%2C+saya+Dayat+%F0%9F%91%8B;Ngoding+Laravel+sampai+larut+%E2%98%95;Bikin+dashboard+dan+sistem+internal+%F0%9F%9B%A0%EF%B8%8F;Mahasiswa+Polbeng+%7C+Magang+di+BSP+Zapin+%F0%9F%9B%A2%EF%B8%8F" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Halo%2C+saya+Dayat+%F0%9F%91%8B;Freelance+Full-Stack+Web+Developer+%F0%9F%92%BB;Ngoding+Laravel+sampai+larut+%E2%98%95;Bikin+website%2C+dashboard%2C+dan+sistem+internal+%F0%9F%9B%A0%EF%B8%8F;Terbuka+untuk+proyek+baru+%F0%9F%9A%80" alt="typing" />
 </a>
 
 <br/>
@@ -14,10 +14,13 @@
 
 ---
 
+### 👋 Tentang Saya
+Fresh graduate **Politeknik Negeri Bengkalis** yang kini bekerja sebagai **freelance full-stack web developer**. Fokus di sistem berbasis **Laravel**, dashboard, dan internal tooling untuk bisnis, instansi, dan UMKM. Terbuka untuk proyek website, sistem informasi, dan aplikasi manajemen. 📍 Riau, Indonesia 🇮🇩
+
 ### 🌱 Sedang Dikerjakan
 - 🏢 Platform website korporat & sistem manajemen internal **BSP Zapin** (Laravel 12)
 - 📚 Mendalami **DevOps** untuk sistem monitoring berbasis web
-- 🎓 Mahasiswa **Politeknik Negeri Bengkalis**, Riau 🇮🇩
+- 💼 Menerima proyek freelance: company profile, sistem informasi, e-commerce, dan dashboard
 
 ### 🧰 Tech Stack
 <p align="center">
@@ -25,12 +28,16 @@
 </p>
 
 ### 🚀 Proyek Pilihan
-| Proyek | Deskripsi |
-|---|---|
-| [**bsp-zapin**](https://github.com/hidayaturromadhan/bsp-zapin) | CMS, monitoring operasional, pelaporan WBS, konten bilingual, akses berbasis peran |
-| [**sistem-penjualan-umkm**](https://github.com/hidayaturromadhan/sistem-penjualan-umkm) | Sistem penjualan buah & sayuran untuk UMKM |
-| [**agenda-desa**](https://github.com/hidayaturromadhan/agenda-desa) | Aplikasi manajemen agenda untuk desa |
-| [**rental-ps-laravel-12**](https://github.com/hidayaturromadhan/rental-ps-laravel-12) | Sistem rental PlayStation berbasis Laravel 12 |
+<!--PINS:START-->
+<p align="center">
+<a href="https://github.com/hidayaturromadhan/bsp-zapin"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=bsp-zapin&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="bsp-zapin" /></a>
+<a href="https://github.com/hidayaturromadhan/rental-ps-laravel-12"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=rental-ps-laravel-12&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="rental-ps-laravel-12" /></a>
+<a href="https://github.com/hidayaturromadhan/sistem-penjualan-umkm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=sistem-penjualan-umkm&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="sistem-penjualan-umkm" /></a>
+<a href="https://github.com/hidayaturromadhan/agenda-desa"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=agenda-desa&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="agenda-desa" /></a>
+<a href="https://github.com/hidayaturromadhan/ecommerce_dayat"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=ecommerce_dayat&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ecommerce_dayat" /></a>
+<a href="https://github.com/hidayaturromadhan/sistem-informasi-pembayaran-ponpes"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=sistem-informasi-pembayaran-ponpes&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="sistem-informasi-pembayaran-ponpes" /></a>
+</p>
+<!--PINS:END-->
 
 ### 📊 Statistik GitHub
 <p align="center">
