@@ -27,18 +27,6 @@ Fresh graduate **Politeknik Negeri Bengkalis** yang kini bekerja sebagai **freel
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,git,github,linux,docker&perline=11" alt="tech stack" />
 </p>
 
-### 🚀 Proyek Pilihan
-<!--PINS:START-->
-<p align="center">
-<a href="https://github.com/hidayaturromadhan/bsp-zapin"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=bsp-zapin&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="bsp-zapin" /></a>
-<a href="https://github.com/hidayaturromadhan/rental-ps-laravel-12"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=rental-ps-laravel-12&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="rental-ps-laravel-12" /></a>
-<a href="https://github.com/hidayaturromadhan/sistem-penjualan-umkm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=sistem-penjualan-umkm&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="sistem-penjualan-umkm" /></a>
-<a href="https://github.com/hidayaturromadhan/agenda-desa"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=agenda-desa&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="agenda-desa" /></a>
-<a href="https://github.com/hidayaturromadhan/ecommerce_dayat"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=ecommerce_dayat&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ecommerce_dayat" /></a>
-<a href="https://github.com/hidayaturromadhan/sistem-informasi-pembayaran-ponpes"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hidayaturromadhan&repo=sistem-informasi-pembayaran-ponpes&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="sistem-informasi-pembayaran-ponpes" /></a>
-</p>
-<!--PINS:END-->
-
 ### 📊 Statistik GitHub
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hidayaturromadhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
